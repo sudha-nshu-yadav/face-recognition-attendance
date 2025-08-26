@@ -3,3 +3,6 @@ opencv-python-headless
 numpy
 pandas
 face-recognition
+Pillow
+dlib
+
