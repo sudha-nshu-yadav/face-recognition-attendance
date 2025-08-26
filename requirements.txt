@@ -1,0 +1,20 @@
+streamlit
+opencv-python
+numpy
+pandas
+face-recognition
+Pillow
+dlib
+streamlit → runs the web app
+
+opencv-python → captures and processes images
+
+numpy → numerical operations
+
+pandas → attendance storage (CSV/Excel)
+
+face-recognition → detects and recognizes faces
+
+Pillow → image handling (needed by Streamlit + face-recognition sometimes)
+
+dlib → backend for face-recognition (required dependency)
